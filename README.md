@@ -31,6 +31,8 @@ Start a summoner's rift ranked game and let the magic happen!
 
 For any help or feedback, you can contact me here: https://discord.gg/cjjcrA2Zgp
 
+I've only tested the app on euw servers but it should work on all servers worldwide. Please report to me on discord if you play on another server and get problems using it.
+
 ## How to compile the app yourself
 
 If you want to compile the app yourself, here is how:
