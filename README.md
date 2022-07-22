@@ -46,6 +46,6 @@ If you want to compile the app yourself, here is how:
 
 Warning: do not ask about summoner's stats in the official autoIT forums as they do not allow discussions about anything related to games inside.
  
-## Disclamer (riot asks every 3rd party app devs to display the text below for legal reasons, dont give it too much attention)
+## Disclamer (riot asks every 3rd party app devs to display the text below for legal reasons)
 
 Autogg isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
