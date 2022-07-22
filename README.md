@@ -15,7 +15,7 @@ So basically it's just doing automatically what you can already do manually! Tha
 
 ## How to use?
 
-The easier to understand is to watch this short demo video on youtube here: (placeholder text, youtube video link will be added here soon)
+The easier to understand is to watch this short demo video on youtube here: https://youtu.be/9PhKAJ7LR5A
 
 Summary:
 
